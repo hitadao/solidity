@@ -10,8 +10,6 @@
 
 **basic-105：版权声明**：[代码](https://github.com/hitadao/solidity/tree/main/basic-105-Spdx) | [文章](https://binschool.org/solidity-basic/solidity-spdx.html) | [BiliBili](https://www.bilibili.com/video/BV1nj411o7M6) | [Youtube](https://youtu.be/3otW_llb6is) 
 
-### Soldity 数据类型
-
 **basic-201：数据类型**：[代码](https://github.com/hitadao/solidity/tree/main/basic-201-DataType) | [文章](https://binschool.org/solidity-basic/solidity-datatype.html) | [BiliBili](https://www.bilibili.com/video/BV1UF411Q7Y8) | [Youtube](https://youtu.be/PBrn_XJqi0I) 
 
 **basic-202：整型**：[代码](https://github.com/hitadao/solidity/tree/main/basic-202-Integer) | [文章](https://binschool.org/solidity-basic/solidity-integer.html) | [BiliBili](https://www.bilibili.com/video/BV1Nh4y1L7B9) | [Youtube](https://youtu.be/NrQKOkw5q9ws) 
@@ -24,8 +22,6 @@
 
 **basic-206：枚举型**：[代码](https://github.com/hitadao/solidity/tree/main/basic-206-Enum) | [文章](https://binschool.org/solidity-basic/solidity-enum.html) | [BiliBili](https://www.bilibili.com/video/BV1Sh4y1L7uJ) | [Youtube](https://youtu.be/kcAsjDCbFqQ) 
 
-### Soldity 变量
-
 **basic-301：变量**：[代码](https://github.com/hitadao/solidity/tree/main/basic-301-Variable) | [文章](https://binschool.org/solidity-basic/solidity-variable.html) | [Bilibili](https://www.bilibili.com/video/BV1jV411L7u2)  |  [Youtube](https://youtu.be/TkPPYdqVFlM)
 
 **basic-302：可见性**：[代码](https://github.com/hitadao/solidity/tree/main/basic-302-Visibility) | [文章](https://binschool.org/solidity-basic/solidity-visibility.html) | [Bilibili](https://www.bilibili.com/video/BV1ih4y1k71T)  |  [Youtube](https://youtu.be/60_Br5_hQTo)
@@ -33,8 +29,6 @@
 **basic-303：默认值**：[代码](https://github.com/hitadao/solidity/tree/main/basic-303-Default) | [文章](https://binschool.org/solidity-basic/solidity-default.html) | [Bilibili](https://www.bilibili.com/video/BV1vP411W7nR)  |  [Youtube](https://youtu.be/kp_K1-GcWMM)
 
 **basic-304：常量**：[代码](https://github.com/hitadao/solidity/tree/main/basic-304-Const) | [文章](https://binschool.org/solidity-basic/solidity-const.html) | [Bilibili](https://www.bilibili.com/video/BV1FV4y1e7Bd)  |  [Youtube](https://youtu.be/k1rFT0_xEWI)
-
-### Soldity 函数
 
 **basic-401：函数**：[代码](https://github.com/hitadao/solidity/tree/main/basic-401-Function) | [文章](https://binschool.org/solidity-basic/solidity-function.html) | [Bilibili](https://www.bilibili.com/video/BV16m4y1T73a)  |  [Youtube](https://youtu.be/2WKdn-xuwbA)
 
@@ -46,9 +40,6 @@
 
 **basic-405：回退函数 fallback**：[代码](https://github.com/hitadao/solidity/tree/main/basic-403-Fallback) | [文章](https://binschool.org/solidity-basic/solidity-fallback.html) | [Bilibili](https://www.bilibili.com/video/BV1QM41197Fr)  |  [Youtube](https://youtu.be/L6aKkMrtI60)
 
-
-### Soldity 控制语句
-
 **basic-501：运算符**：[代码](https://github.com/hitadao/solidity/tree/main/basic-501-Operator) | [文章](https://binschool.org/solidity-basic/solidity-operator.html) | [Bilibili](https://www.bilibili.com/video/BV1Q84y197sr)  |  [Youtube](https://youtu.be/WhKrXQnBNQo)
 
 
@@ -58,8 +49,6 @@
 
 **basic-504：断言语句**：[代码](https://github.com/hitadao/solidity/tree/main/basic-504-Assert) | [文章](https://binschool.org/solidity-basic/solidity-assert.html)
 
-### Soldity 复合类型
-
 **basic-01：数组**：[代码](https://github.com/hitadao/solidity/tree/main/basic-601-Array) | [文章](https://binschool.org/solidity-basic/solidity-array.html)
 
 **basic-602：字节和字符串**：[代码](https://github.com/hitadao/solidity/tree/main/basic-602-String) | [文章](https://binschool.org/solidity-basic/solidity-string.html)
@@ -68,15 +57,13 @@
 
 **basic-604：映射 mapping**：[代码](https://github.com/hitadao/solidity/tree/main/basic-604-Mapping) | [文章](https://binschool.org/solidity-basic/solidity-mapping.html)
 
-### Solidity 面向对象
-
 **basic-701：合约继承**：[代码](https://github.com/hitadao/solidity/tree/main/basic-701-Inherit) | [文章](https://binschool.org/solidity-basic/solidity-inherit.html)
 
 **basic-702：抽象合约和接口**：[代码](https://github.com/hitadao/solidity/tree/main/basic-701-Interface) | [文章](https://binschool.org/solidity-basic/solidity-interface.html)
 
 **basic-703：多重继承**：[代码](https://github.com/hitadao/solidity/tree/main/basic-703-MultiInherit) | [文章](https://binschool.org/solidity-basic/solidity-multi-inherit.html)
 
-### Solidity 进阶编程
+
 
 **basic-801：事件 event**：[代码](https://github.com/hitadao/solidity/tree/main/basic-801-Event) | [文章](https://binschool.org/solidity-basic/solidity-event.html)
 
@@ -92,19 +79,13 @@
 
 **demo-101：概述**：[代码](https://github.com/hitadao/solidity/tree/main/demo-101-Index) | [文章](https://binschool.org/solidity-demo/solidity-demo-index.html)
 
-### __Solidity 众筹投票__
-
 **demo-201：众筹合约**：[代码](https://github.com/hitadao/solidity/tree/main/demo-201-CrowdFunding) | [文章](https://binschool.org/solidity-demo/solidity-demo-crowdfunding.html)
 
 **demo-202：投票合约**：[代码](https://github.com/hitadao/solidity/tree/main/demo-202-Voting) | [文章](https://binschool.org/solidity-demo/solidity-demo-voting.html)
 
-### Solidity 拍卖合约
-
 **demo-301：英国拍卖**：[代码](https://github.com/hitadao/solidity/tree/main/demo-301-AuctionEnglish) | [文章](https://binschool.org/solidity-demo/solidity-demo-auction-english.html)
 
 **demo-302：荷兰拍卖**：[代码](https://github.com/hitadao/solidity/tree/main/demo-302-AuctionDutch) | [文章](https://binschool.org/solidity-demo/solidity-demo-auction-dutch.html)
-
-### Solidity 代币合约
 
 **demo-401：ERC-20 代币合约**：[代码](https://github.com/hitadao/solidity/tree/main/demo-401-Erc20) | [文章](https://binschool.org/solidity-demo/solidity-demo-erc20.html)
 
