@@ -92,7 +92,7 @@
 
 **demo-101：概述**：[代码](https://github.com/hitadao/solidity/tree/main/demo-101-Index) | [文章](https://binschool.org/solidity-demo/solidity-demo-index.html)
 
-### <u>Solidity 众筹投票</u>
+### __Solidity 众筹投票__
 
 **demo-201：众筹合约**：[代码](https://github.com/hitadao/solidity/tree/main/demo-201-CrowdFunding) | [文章](https://binschool.org/solidity-demo/solidity-demo-crowdfunding.html)
 
