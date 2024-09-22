@@ -6,14 +6,13 @@
 
 <p align="center"><img src="./img/solidity-basic-v17.png" align="middle" /></p>
 
-**官网**：[BinSchoolOrg](https://binschool.org)
+**官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[github.com/hitadao](https://github.com/hitadao)
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
 
 -----
-
 函数可以使用状态可变性(state mutability)进行修饰，用于标识函数是否会修改合约的状态。
 
 ```solidity

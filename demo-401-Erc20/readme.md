@@ -4,14 +4,13 @@
 
 **视频**：[Bilibili](https://space.bilibili.com/2112923943)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
-**官网**：[BinSchoolOrg](https://binschool.org)
+**官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[github.com/hitadao](https://github.com/hitadao)
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
 
 -----
-
 **`ERC-20`** 是以太坊上智能合约的一个重要接口标准，用于定义和实现可互操作的代币。
 
 **`ERC-20`** 标准描述了代币合约应该遵循的规则和方法，以便能够在以太坊网络上实现代币的发行、传输和管理。只有遵循 **`ERC-20`** 标准编写的智能合约，才能被钱包软件、其它合约或者应用程序识别为一种特定代币，进而正确地呈现它的信息，以及便捷地使用它。

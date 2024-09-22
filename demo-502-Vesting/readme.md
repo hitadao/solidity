@@ -4,14 +4,13 @@
 
 **视频**：[Bilibili](https://space.bilibili.com/2112923943)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
-**官网**：[BinSchoolOrg](https://binschool.org)
+**官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[github.com/hitadao](https://github.com/hitadao)
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
 
 -----
-
 线性释放，英文名称为 “Vesting”，是指代币按照一定速度在一段时间内匀速释放的过程，这种机制通常用于激励机制。
 
 线性释放，既可以限制被激励人员在短时间内大量抛售代币，造成代币价格的不稳定，又可以保证他们具有长期的动力。

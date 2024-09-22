@@ -4,14 +4,13 @@
 
 **视频**：[Bilibili](https://space.bilibili.com/2112923943)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
-**官网**：[BinSchoolOrg](https://binschool.org)
+**官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[github.com/hitadao](https://github.com/hitadao)
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
 
 -----
-
 稳定币 **`Stablecoin`** 是一种区块链上的 **`ERC-20`** 代币，它的价值相对稳定，通常与一篮子资产挂钩，比如法币、商品或其它加密货币，以维持相对稳定的价值。
 
 稳定币的主要目标是解决加密货币市场中价格波动的问题，使用户能够在数字资产的基础上进行交易和储存，同时避免传统加密货币的剧烈价格波动。

@@ -4,14 +4,13 @@
 
 **视频**：[Bilibili](https://space.bilibili.com/2112923943)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
-**官网**：[BinSchoolOrg](https://binschool.org)
+**官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[github.com/hitadao](https://github.com/hitadao)
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
 
 -----
-
 包装型代币，英文为 Wrapped Tokens，是一种将原生币包装成符合 **`ERC-20`** 标准的代币。比如，**`WETH`**、**`WBNB`**、**`WBTC`** 等，都是包装型代币的实例。
 
 我们以 **`WETH`** 为例，分析一下包装型代币的作用：

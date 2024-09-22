@@ -6,14 +6,13 @@
 
 <p align="center"><img src="./img/solidity-basic-v14.png" align="middle" /></p>
 
-**官网**：[BinSchoolOrg](https://binschool.org)
+**官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[github.com/hitadao](https://github.com/hitadao)
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
 
 -----
-
 **`Solidity`** 智能合约中所有的状态变量和局部变量，都有默认值，也叫初始值。变量在没有被赋值之前，它的值就等于默认值。
 
 我们在前面学习数据类型的时候，已经讲解了各种数据类型的默认值。

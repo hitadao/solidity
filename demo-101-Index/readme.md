@@ -4,14 +4,13 @@
 
 **视频**：[Bilibili](https://space.bilibili.com/2112923943)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
-**官网**：[BinSchoolOrg](https://binschool.org)
+**官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[github.com/hitadao](https://github.com/hitadao)
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
 
 -----
-
 智能合约是一个可以自动执行的计算机协议，它可以自动处理协议的履行、管理，以及支付，无需第三方信任中介。它的优势在于：能够提供去中心化的信任，执行过程安全、透明，从而可以减少成本，提高效率。
 
 在区块链领域，智能合约通常是指区块链上的小段程序。比如：运行在区块链上的输出 **Hello World** 的简单程序，也可以称为智能合约。

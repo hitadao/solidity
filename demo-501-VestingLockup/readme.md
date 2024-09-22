@@ -4,14 +4,13 @@
 
 **视频**：[Bilibili](https://space.bilibili.com/2112923943)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
-**官网**：[BinSchoolOrg](https://binschool.org)
+**官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[github.com/hitadao](https://github.com/hitadao)
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
 
 -----
-
 锁仓释放，英文名称为 “Vesting with Lock-up”，是指代币在一段时间内被冻结，无法被转移或销售，而只能在指定的时间段后才会被释放。
 
 这种锁仓机制常常用于首次代币发售 **`ICO`** 或者团队成员分配的代币，以确保他们在一定时间内不会抛售，从而保持代币价格的稳定性。

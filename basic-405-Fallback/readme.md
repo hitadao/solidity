@@ -6,14 +6,13 @@
 
 <p align="center"><img src="./img/solidity-basic-v19.png" align="middle" /></p>
 
-**官网**：[BinSchoolOrg](https://binschool.org)
+**官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[github.com/hitadao](https://github.com/hitadao)
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
 
 -----
-
 在 **`Solidity`** 语言中，**`fallback`** 是一个预定义的特殊函数，用于在处理未知函数和接收以太币 **`ETH`** 时调用。
 
 定义 **`fallback`** 函数的格式如下：

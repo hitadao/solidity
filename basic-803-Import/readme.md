@@ -5,14 +5,13 @@
 
 **视频**：[Bilibili](https://space.bilibili.com/2112923943)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
-**官网**：[BinSchoolOrg](https://binschool.org)
+**官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[github.com/hitadao](https://github.com/hitadao)
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
 
 -----
-
 当智能合约的业务逻辑比较复杂的时候，我们通常会按照单一职能的原则，将其划分为不同的模块，从而会形成多个合约文件。那么在多合约的情况下，合约文件之间该如何引用呢？
 
 在 Solidity 中，可以使用 **`import`** 导入其它合约文件的内容，以供当前合约使用。

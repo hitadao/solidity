@@ -4,14 +4,13 @@
 
 **视频**：[Bilibili](https://space.bilibili.com/2112923943)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
-**官网**：[BinSchoolOrg](https://binschool.org)
+**官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[github.com/hitadao](https://github.com/hitadao)
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
 
 -----
-
 众筹合约是帮助众筹项目筹集资金的智能合约。项目创建者需要发布一个众筹活动的合约，然后请求用户向合约捐款，以实现项目的筹集目标。
 
 捐款人可以参与众筹活动，向项目提供资金支持。而项目创建者在达成众筹目标之后，可以提取合约中筹集的资金。
