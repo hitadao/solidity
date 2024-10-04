@@ -8,7 +8,7 @@
 
 **代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
-**推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
+**推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)s
 
 -----
 在 **`Solidity`** 中，数组是一种用于存储相同类型元素的数据结构。
