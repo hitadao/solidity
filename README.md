@@ -99,6 +99,6 @@
 
 **demo-502：线性释放**：[代码](https://github.com/hitadao/solidity/tree/main/demo-502-Vesting) | [文章](https://binschool.org/solidity-demo/solidity-demo-vesting.html)
 
-# 第 4 部分： BinSchool ethers.js 高级教程
+# 第 5 部分： BinSchool ethers.js 高级教程
 
-**ethers-advanced-201-TxMessage：概述**：[代码](https://github.com/hitadao/solidity/tree/main/ethers-advanced-201-TxMessage) 
+**ethers-advanced-201：链上消息**：[代码](https://github.com/hitadao/solidity/tree/main/ethers-advanced-201-TxMessage) 
