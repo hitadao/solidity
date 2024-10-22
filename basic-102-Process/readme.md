@@ -8,20 +8,20 @@
 
 **官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
-
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
+
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 -----
 使用 **`Solidity`** 编写的智能合约，并不能直接在以太坊区块链上运行，还需要经过编译和部署两个步骤。
 
 在以太坊上运行智能合约的环境，称为 **“以太坊虚拟机”**，英文缩写为 **`EVM`**。
 
-在 **`EVM`** 上执行的智能合约代码，并不是文本形式的 **`Solidity`** 语言源代码，而是一种二进制代码，称为 **`字节码`**。
+在 **`EVM`** 上执行的智能合约代码，并不是文本形式的 **`Solidity`** 语言源代码，而是一种**二进制代码**，称为 **`字节码`**。
 
-二进制代码非常不直观，难以理解。所以，我们是无法直接编写二进制代码的智能合约的。
+**二进制代码**非常不直观，难以理解。所以，我们是无法直接编写二进制代码的智能合约的。
 
-通常，我们使用更容易理解的 **`Solidity`** 语言来编写智能合约，然后使用编译器将其编译为二进制代码，最后在以太坊虚拟机上执行。
+通常，我们使用更容易理解的 **`Solidity`** 语言来编写智能合约，然后使用编译器将其编译为**二进制代码**，最后在以太坊虚拟机上执行。
 
 这个过程如下所示：
 <p align="center"><img src="./img/contract-compile.png" align="middle" width="600px" /></p>
@@ -58,6 +58,8 @@ contract HelloWorld{
 我们的教程就使用了 **`Remix`** 来编写、编译和部署智能合约。
 
 Remix 开发工具的地址为：[https://remix.ethereum.org/](https://remix.ethereum.org/)，这是一个以太坊基金会的官方开源项目，可放心使用。
+
+如果国内网络无法访问的话，可以使用国内 **`Remix`** 镜像，无需科学上网，而且访问速度快，地址为：[https://remix.binschool.app](https://remix.binschool.app)。
 
 <p align="center"><img src="./img/remix.png" align="middle" width="800px" /></p>
 
