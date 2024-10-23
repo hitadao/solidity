@@ -8,9 +8,9 @@
 
 **官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
-
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
+
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
 -----
 注释语句是指在 **`Solidity`** 源代码中添加的注释文本，用于解释代码的含义、目的和用法等信息。

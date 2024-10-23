@@ -8,12 +8,11 @@
 
 **官网**：[https://BinSchool.Org](https://binschool.org)
 
-**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
-
 **推特**：[@Hita_DAO](https://x.com/hita_dao)    **Discord**：[Hita_DAO](https://discord.gg/dzWY3QYGrx)
 
------
+**代码**：[https://github.com/hitadao/solidity](https://github.com/hitadao/solidity)
 
+-----
 下面是一个简单的使用 **`Solidity`** 编写的智能合约：
 
 ```solidity
@@ -31,7 +30,7 @@ contract HelloWorld {
 
 这个智能合约的名称是 **`HelloWorld`**，它包含了一个状态变量 **`greeting`** 和 一个函数 **`greet`**。
 
-当外部调用这个智能合约的函数 **`greet`** 时，它会返回字符串 "Hello World"。
+当外部调用这个智能合约的函数 **`greet`** 时，它会返回字符串 **"Hello World"**。
 
 ## 智能合约的组成
 一个典型的智能合约，通常由 4 个部分组成，分别是：**声明部分**、**合约定义部分**、**状态变量部分** 和 **函数部分**。其中，状态变量部分和函数部分是智能合约的主体。
